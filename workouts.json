@@ -1,0 +1,210 @@
+{
+ "leavers": "2026-11-22",
+ "prs": [
+  {
+   "name": "DB bench press",
+   "value": "32kg × 5"
+  },
+  {
+   "name": "Machine chest press (Revo)",
+   "value": "57kg × 10"
+  },
+  {
+   "name": "Lat pulldown",
+   "value": "90kg"
+  },
+  {
+   "name": "Bayesian cable curl (Chris)",
+   "value": "24kg × 10"
+  },
+  {
+   "name": "Tricep pushdown (Chris)",
+   "value": "66kg"
+  },
+  {
+   "name": "Overhead tricep extension (Chris)",
+   "value": "60kg"
+  },
+  {
+   "name": "Pull-ups",
+   "value": "BW × 6"
+  }
+ ],
+ "workouts": [
+  {
+   "title": "Shoulders, Arms + Abs",
+   "gym": "Chris's gym (cables read ~2x)",
+   "notes": "RPE 8: stop with 1-2 reps left",
+   "exercises": [
+    {
+     "code": "A1",
+     "name": "Incline DB press (30°)",
+     "cue": "3 sec down, shoulder blades pinned, deep stretch.",
+     "unit": "kg",
+     "repUnit": "reps",
+     "sets": 3,
+     "group": "Superset A · rest 90s",
+     "weight": "24",
+     "target": "8-10",
+     "rest": "90s",
+     "muscles": [
+      "chest",
+      "shoulders"
+     ]
+    },
+    {
+     "code": "A2",
+     "name": "Single-arm cable lateral raise",
+     "cue": "Cable behind you, lead with the elbow, no swinging.",
+     "unit": "kg",
+     "repUnit": "reps",
+     "sets": 3,
+     "group": "Superset A · rest 90s",
+     "weight": "10-12",
+     "target": "12-15",
+     "rest": "90s",
+     "muscles": [
+      "shoulders"
+     ]
+    },
+    {
+     "code": "B1",
+     "name": "Bayesian cable curl",
+     "cue": "Elbow still, control the stretch.",
+     "unit": "kg",
+     "repUnit": "reps",
+     "sets": 3,
+     "group": "Superset B · rest 75s",
+     "weight": "26",
+     "target": "10-12",
+     "rest": "75s",
+     "muscles": [
+      "biceps"
+     ]
+    },
+    {
+     "code": "B2",
+     "name": "Overhead cable tricep extension",
+     "cue": "Full stretch behind the head.",
+     "unit": "kg",
+     "repUnit": "reps",
+     "sets": 3,
+     "group": "Superset B · rest 75s",
+     "weight": "50",
+     "target": "10-12",
+     "rest": "75s",
+     "muscles": [
+      "triceps"
+     ]
+    },
+    {
+     "code": "C1",
+     "name": "Incline DB curl",
+     "cue": "Arms hang back, full stretch.",
+     "unit": "kg",
+     "repUnit": "reps",
+     "sets": 3,
+     "group": "Superset C · rest 75s",
+     "weight": "12.5",
+     "target": "10",
+     "rest": "75s",
+     "muscles": [
+      "biceps"
+     ]
+    },
+    {
+     "code": "C2",
+     "name": "Rope tricep pushdown",
+     "cue": "Elbows pinned, spread the rope at the bottom.",
+     "unit": "kg",
+     "repUnit": "reps",
+     "sets": 3,
+     "group": "Superset C · rest 75s",
+     "weight": "55-60",
+     "target": "10-12",
+     "rest": "75s",
+     "muscles": [
+      "triceps"
+     ]
+    },
+    {
+     "code": "D1",
+     "name": "Cable rear delt fly",
+     "cue": "Cross the cables, pull wide, squeeze the back of the shoulders.",
+     "unit": "kg",
+     "repUnit": "reps",
+     "sets": 3,
+     "group": "Superset D · rest 75s",
+     "weight": "15-20",
+     "target": "15",
+     "rest": "75s",
+     "muscles": [
+      "shoulders"
+     ]
+    },
+    {
+     "code": "D2",
+     "name": "DB hammer curl",
+     "cue": "Thumbs up, slow down. Builds forearms.",
+     "unit": "kg",
+     "repUnit": "reps",
+     "sets": 3,
+     "group": "Superset D · rest 75s",
+     "weight": "16",
+     "target": "10",
+     "rest": "75s",
+     "muscles": [
+      "biceps",
+      "forearms"
+     ]
+    },
+    {
+     "code": "E1",
+     "name": "Kneeling cable crunch",
+     "cue": "Curl ribs to hips, don't just bend at the hips.",
+     "unit": "kg",
+     "repUnit": "reps",
+     "sets": 3,
+     "group": "Abs finisher · rest 45s",
+     "weight": "50",
+     "target": "12",
+     "rest": "45s",
+     "muscles": [
+      "abs"
+     ]
+    },
+    {
+     "code": "E2",
+     "name": "Hanging leg raise",
+     "cue": "No swinging, curl the pelvis up.",
+     "unit": "",
+     "repUnit": "reps",
+     "sets": 3,
+     "group": "Abs finisher · rest 45s",
+     "weight": "BW",
+     "target": "10",
+     "rest": "45s",
+     "muscles": [
+      "abs"
+     ]
+    },
+    {
+     "code": "E3",
+     "name": "Plank to failure (between ab rounds)",
+     "cue": "Squeeze glutes and abs, flat back.",
+     "unit": "",
+     "repUnit": "sec",
+     "sets": 3,
+     "group": "Abs finisher · rest 45s",
+     "weight": "BW",
+     "target": "failure",
+     "rest": "45s",
+     "muscles": [
+      "abs"
+     ]
+    }
+   ],
+   "id": "2026-10-09"
+  }
+ ]
+}
